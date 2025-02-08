@@ -2,4 +2,4 @@
 ===========================================================
 ### CyanogenMod CM-13.0 Links
 Device Tree: [Thanks to Krkshalil for sharing Device Tree.](https://github.com/krkshalil/android_device_zte_bladevec4g)
-ROM Download Link: 
+ROM Download Link: https://github.com/meeo11/TurkcellT50/releases/tag/roms
